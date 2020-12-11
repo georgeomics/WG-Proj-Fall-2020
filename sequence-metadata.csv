@@ -1,0 +1,10 @@
+﻿Species,Common Name,NCBI Accession Number,MT Genome Length,GC%,% Identity
+Panthera uncia,Snow Leopard,NC_010638,16773,41,100.00%
+Panthera leo,African Lion,NC_028302,16620,40.85,91.87%
+Panthera onca,Jaguar,NC_022842,17049,40.91,91.04%
+Panthera pardus,Leopard,NC_010641,16964,41.12,90.87%
+Panthera tigris trigris (formerly amoyensis),South China Tiger,NC_014770,17001,41.2,90.00%
+Panthera tigris tigris (formerly altaica),Siberian Tiger,NC_010642,16990,41.15,89.53%
+Vulpes ferrilata,Tibetan Plateau Fox,NC_027935,16667,41,78.40%
+Hemitragus jemlahicus,Himalayan Tahr,NC_020628,16712,39.7,76.40%
+Vicugna vicugna,Vicuna,NC_013558,16084,40.53,76.35%
